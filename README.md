@@ -17,5 +17,5 @@ yarn link
 ### Usage
 
 ```bash
-$ megec <sourcefile> <outfile>
+$ mergec <sourcefile> <outfile>
 ```
